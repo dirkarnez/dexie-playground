@@ -1,4 +1,4 @@
-[tag-web-playground](https://dirkarnez.github.io/tag-web-playground)
+[indexeddb-playground](https://dirkarnez.github.io/indexeddb-playground)
 ====================================================================
-### Notes
-- The implementation here is not for running under concurrent situation
+### Reference
+- https://github.com/dexie/Dexie.js/blob/master/samples/full-text-search/FullTextSearch.js
